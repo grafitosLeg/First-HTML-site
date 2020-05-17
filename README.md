@@ -9,7 +9,7 @@
 ## General info
 This project covers the first html website with pure html and css code which I've created.
 ## Demo 
-Check demo here: 
+Check demo here: [Demo](https://grafitosleg.github.io/First-HTML-site/)
 ## Technologies
 Project is created with:
 * Html 5
