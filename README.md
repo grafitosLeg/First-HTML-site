@@ -16,4 +16,4 @@ Project is created with:
 * CSS 3
 
 ## Sources
-These task is inspired by kurshtmlcss.pl and flynerd.pl
+This task is inspired by kurshtmlcss.pl and flynerd.pl
