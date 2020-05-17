@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Demo](#demo)
 * [Technologies](#technologies)
-* [Sources](#Sources)
+* [Sources](#sources)
 
 ## General info
 This project covers the first html website with pure html and css code which I've created.
@@ -16,4 +16,4 @@ Project is created with:
 * CSS 3
 
 ## Sources
-These tasks are inspired by kurshtmlcss.pl and flynerd.pl
+These task is inspired by kurshtmlcss.pl and flynerd.pl
