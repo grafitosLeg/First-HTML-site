@@ -34,7 +34,6 @@ p, a, li {
   font-family: arial, tahoma, verdana, sans-serif;
 }
 
-/* header , #f9f9f9 */
 
 header {
   position: relative;
@@ -93,13 +92,23 @@ li a:hover {
 #main .opis h1 {
   float: right; padding: 5px 80px 5px 80px;
   margin: 10px 0px 5px 0px;
-  background: white; border: 3px solid white; }
+  background: white;
+  border: 3px solid white;
+  color: Black;
+  font-weight: 2;
+  font-size: 2em;
+  text-align: right;
+}
 
 #main .opis h5 {
   float: right; padding: 1px 80px 5px 80px;
   margin: 1px 0px 10px 0px;
   background: white;
   border: 3px solid #white;
+  float: right,
+  color: Black;
+  font-size: 14px;
+  text-align: right;
 }
 
 #main .opis h6 {
@@ -109,9 +118,13 @@ li a:hover {
   background: white;
   border: 3px solid #black;
   margin-left: 220px;
+  float: right,
+  color: Black;
+  font-size: 1cm;
+  text-align: right;
 }
 
-#main .opis h1 {
+/*#main .opis h1 {
   color: #black;
   font-weight: 2;
   font-size: 2em;
@@ -128,7 +141,7 @@ li a:hover {
   color: #black;
   font-size: 1cm;
   text-align: right;
-}
+}*/
 
 #main .text {
   padding: 5px 80px 5px 80px;
