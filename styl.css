@@ -200,7 +200,7 @@ footer ul { overflow: hidden;
   background: #f5f5f5;
   border: 1px solid #e0e0e0;
 }
-
+/*zmiana padding*/
 footer ul li { float: left;
   padding: 10px 20px 10px 20px;
   width: 29%;
