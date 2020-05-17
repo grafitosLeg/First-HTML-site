@@ -17,3 +17,5 @@ Project is created with:
 
 ## Sources
 This task is inspired by kurshtmlcss.pl and flynerd.pl
+* Thanks to :
+Freepik - title icon made by [Freepik](https://freepik.com), licensed: CC 3.0
